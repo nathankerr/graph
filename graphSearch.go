@@ -2,8 +2,8 @@ package graph
 
 import (
 	"container/heap"
-	"github.com/gonum/graph/set"
-	"github.com/gonum/graph/xifo"
+	"github.com/nathankerr/graph/set"
+	"github.com/nathankerr/graph/xifo"
 )
 
 // Returns an ordered list consisting of the nodes between start and goal. The path will be the shortest path assuming the function heuristicCost is admissible.

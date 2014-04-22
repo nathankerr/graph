@@ -1,8 +1,8 @@
 package graph
 
 import (
-	"github.com/gonum/graph/set"
-	"github.com/gonum/graph/xifo"
+	"github.com/nathankerr/graph/set"
+	"github.com/nathankerr/graph/xifo"
 	"math"
 	"sort"
 )
