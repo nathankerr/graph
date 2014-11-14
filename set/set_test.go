@@ -1,7 +1,7 @@
 package set_test
 
 import (
-	"github.com/gonum/graph/set"
+	"github.com/nathankerr/graph/set"
 	"testing"
 )
 

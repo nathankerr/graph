@@ -1,7 +1,7 @@
 package xifo_test
 
 import (
-	"github.com/gonum/graph/xifo"
+	"github.com/nathankerr/graph/xifo"
 	"testing"
 )
 

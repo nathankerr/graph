@@ -1,7 +1,7 @@
 package graph_test
 
 import (
-	"github.com/gonum/graph"
+	"github.com/nathankerr/graph"
 	"math"
 	"testing"
 )
